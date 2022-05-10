@@ -1,14 +1,20 @@
-# Project
+# Microsoft Build 2022 - AI examples
+This repository contains AI examples that aim to grow the understanding of using Microsoft AI toolsets in applications by providing samples of implementation and references to support the Microsoft Build conference in 2022. 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+| Project | Description |
+| :-- | :-- |
+| Codex for Minecraft Non-Player Characters | Use GPT-3 Codex to power a Nob-Player Character (NPC) in Minecraft. |
+| [Codex Command-Line Interface](https://github.com/microsoft/NL-CLI) | Use GPT-3 Codex to convert natural language into commands in Bash, Zshll and PowerShell. |
+| [Codex Babylon](https://github.com/microsoft/Babylex) | Use natural language to create and manipulate 3D objects in BabylonJS, from simple primitives to complex scenes. |
+| [Azure Search - Query Classification](https://github.com/microsoft/azure-search-query-classification/) | Leveraging Large Language Models (LLMs) to enable semantic understanding with Azure Cognitive Search that improves the Search experience. |
+| [ML.NET on Excel](https://github.com/microsoft/MLNETExcel) | Bring your own ML.NET model to Excel. |
+| [Turtlebot3 Simulator with Bonsai](https://github.com/microsoft/ROS-bonsai-connector/blob/main/samples/turtlebot3_bonsai/README.md) | Train reinforcement learning policies for Turtlebot3 using Microsoft Bonsai. |
+| [ONNX Runtime with Unreal Engine 5](https://github.com/microsoft/OnnxRuntime-UnrealEngine5-StyleTransfer-NNI-Plugin) | Apply style transfer models in Unreal Engine 5 via ONNX Neural Network Inference (NNI) Plugin powered by ONNX Runtime. |
+| [Papiro Document Intelligence](https://github.com/azure-samples/papiro) | A conference intelligence application that used intelligence APIs to showcase what might be done to support conferences with AI. |
+| [locutus GPT-2 Text Generation](https://github.com/Azure-Samples/locutus) | Demonstrate an end-to-end process within Azure Machine Learning to deploy the GPT-2 model from HuggingFace and fine-tuned it on the writings of Homer. |
 
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Statement of Purpose
+This project is not intended to be the forum on discussing Microsoft products nor requesting new features. 
 
 ## Contributing
 
