@@ -3,14 +3,14 @@ This repository contains AI examples that aim to grow the understanding of using
 
 | Project | Description |
 | :-- | :-- |
-| Codex for Minecraft Non-Player Characters | Use GPT-3 Codex to power a Nob-Player Character (NPC) in Minecraft. |
-| [Codex Command-Line Interface](https://github.com/microsoft/NL-CLI) | Use GPT-3 Codex to convert natural language into commands in Bash, Zshll and PowerShell. |
+| Codex for Minecraft Non-Player Characters | Use Codex to generate code to power a non-player character (NPC) in Minecraft and accomplish a variety of in-game tasks. |
+| [Codex Command-Line Interface](https://github.com/microsoft/NL-CLI) | Use Codex to convert natural language into commands in Bash, Zshll and PowerShell. |
 | [Codex Babylon](https://github.com/microsoft/Babylex) | Use natural language to create and manipulate 3D objects in BabylonJS, from simple primitives to complex scenes. |
-| [Azure Search - Query Classification](https://github.com/microsoft/azure-search-query-classification/) | Leveraging Large Language Models (LLMs) to enable semantic understanding with Azure Cognitive Search that improves the Search experience. |
+| [Azure Search - Query Classification](https://github.com/microsoft/azure-search-query-classification/) | Leveraging large language models (LLMs) to enable semantic understanding with Azure Cognitive Search that improves the search experience. |
 | [ML.NET on Excel](https://github.com/microsoft/MLNETExcel) | Bring your own ML.NET model to Excel. |
 | [Turtlebot3 Simulator with Bonsai](https://github.com/microsoft/ROS-bonsai-connector/blob/main/samples/turtlebot3_bonsai/README.md) | Train reinforcement learning policies for Turtlebot3 using Microsoft Bonsai. |
-| [ONNX Runtime with Unreal Engine 5](https://github.com/microsoft/OnnxRuntime-UnrealEngine5-StyleTransfer-NNI-Plugin) | Apply style transfer models in Unreal Engine 5 via ONNX Neural Network Inference (NNI) Plugin powered by ONNX Runtime. |
-| [Papiro Document Intelligence](https://github.com/azure-samples/papiro) | A conference intelligence application that used intelligence APIs to showcase what might be done to support conferences with AI. |
+| [ONNX Runtime with Unreal Engine 5](https://github.com/microsoft/OnnxRuntime-UnrealEngine5-StyleTransfer-NNI-Plugin) | Apply style transfer models in Unreal Engine 5 via the ONNX Neural Network Inference (NNI) plugin powered by ONNX Runtime. |
+| [Papiro Document Intelligence](https://github.com/azure-samples/papiro) | A conference intelligence application that uses intelligence APIs to showcase what might be done to support conferences with AI. |
 | [locutus GPT-2 Text Generation](https://github.com/Azure-Samples/locutus) | Demonstrate an end-to-end process within Azure Machine Learning to deploy the GPT-2 model from HuggingFace and fine-tuned it on the writings of Homer. |
 
 ## Statement of Purpose
