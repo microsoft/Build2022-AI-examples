@@ -3,7 +3,7 @@ This repository contains AI examples that aim to grow the understanding of using
 
 | Project | Description |
 | :-- | :-- |
-| Codex for Minecraft Non-Player Characters | Use Codex to generate code to power a non-player character (NPC) in Minecraft and accomplish a variety of in-game tasks. |
+| [Codex for Minecraft Non-Player Characters](https://github.com/microsoft/MinecraftCodex) | Use Codex to generate code to power a non-player character (NPC) in Minecraft and accomplish a variety of in-game tasks. |
 | [Codex Command-Line Interface](https://github.com/microsoft/Codex-CLI) | Use Codex to convert natural language into commands in Bash, Zshll and PowerShell. |
 | [Codex Babylon](https://github.com/microsoft/Codex-Babylon) | Use natural language to create and manipulate 3D objects in BabylonJS, from simple primitives to complex scenes. |
 | [Azure Search - Query Classification](https://github.com/microsoft/azure-search-query-classification/) | Leveraging large language models (LLMs) to enable semantic understanding with Azure Cognitive Search that improves the search experience. |
