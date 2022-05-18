@@ -4,8 +4,8 @@ This repository contains AI examples that aim to grow the understanding of using
 | Project | Description |
 | :-- | :-- |
 | Codex for Minecraft Non-Player Characters | Use Codex to generate code to power a non-player character (NPC) in Minecraft and accomplish a variety of in-game tasks. |
-| [Codex Command-Line Interface](https://github.com/microsoft/NL-CLI) | Use Codex to convert natural language into commands in Bash, Zshll and PowerShell. |
-| [Codex Babylon](https://github.com/microsoft/Babylex) | Use natural language to create and manipulate 3D objects in BabylonJS, from simple primitives to complex scenes. |
+| [Codex Command-Line Interface](https://github.com/microsoft/Codex-CLI) | Use Codex to convert natural language into commands in Bash, Zshll and PowerShell. |
+| [Codex Babylon](https://github.com/microsoft/Codex-Babylon) | Use natural language to create and manipulate 3D objects in BabylonJS, from simple primitives to complex scenes. |
 | [Azure Search - Query Classification](https://github.com/microsoft/azure-search-query-classification/) | Leveraging large language models (LLMs) to enable semantic understanding with Azure Cognitive Search that improves the search experience. |
 | [ML.NET on Excel](https://github.com/microsoft/MLNETExcel) | Bring your own ML.NET model to Excel. |
 | [Turtlebot3 Simulator with Bonsai](https://github.com/microsoft/ROS-bonsai-connector/blob/main/samples/turtlebot3_bonsai/README.md) | Train reinforcement learning policies for Turtlebot3 using Microsoft Bonsai. |
