@@ -10,8 +10,6 @@ This repository contains AI examples that aim to grow the understanding of using
 | [ML.NET on Excel](https://github.com/microsoft/MLNETExcel) | Bring your own ML.NET model to Excel. |
 | [Turtlebot3 Simulator with Bonsai](https://github.com/microsoft/ROS-bonsai-connector/blob/main/samples/turtlebot3_bonsai/README.md) | Train reinforcement learning policies for Turtlebot3 using Microsoft Bonsai. |
 | [ONNX Runtime with Unreal Engine 5](https://github.com/microsoft/OnnxRuntime-UnrealEngine5-StyleTransfer-NNI-Plugin) | Apply style transfer models in Unreal Engine 5 via the ONNX Neural Network Inference (NNI) plugin powered by ONNX Runtime. |
-| [Papiro Document Intelligence](https://github.com/azure-samples/papiro) | A conference intelligence application that uses intelligence APIs to showcase what might be done to support conferences with AI. |
-| [locutus GPT-2 Text Generation](https://github.com/Azure-Samples/locutus) | Demonstrate an end-to-end process within Azure Machine Learning to deploy the GPT-2 model from HuggingFace and fine-tuned it on the writings of Homer. |
 
 ## Statement of Purpose
 This project is not intended to be the forum on discussing Microsoft products nor requesting new features. 
