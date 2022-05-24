@@ -16,6 +16,10 @@ This repository contains AI examples that aim to grow the understanding of using
 ## Statement of Purpose
 This project is not intended to be the forum on discussing Microsoft products nor requesting new features. 
 
+## Reference
+* [How to build Codex solutions (Microsoft Build 2022 on-demand session)](https://mybuild.microsoft.com/en-US/sessions/cfa6ef6a-1f0d-45cf-bb8c-1209bdcc232e?source=/favorites)
+* [How to get Codex to produce the code you want](https://aka.ms/oai/prompt-engineering)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
